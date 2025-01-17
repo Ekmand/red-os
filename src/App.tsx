@@ -10,7 +10,7 @@ function App() {
       <div
         className="h-[40vh] w-full relative overflow-hidden"
         style={{
-          backgroundImage: 'url("oswars.org/assets/banners/redbanner.png")',
+          backgroundImage: 'url("https://cdn.serverse.org/oswars/redbanner.png")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed'
@@ -29,7 +29,7 @@ function App() {
               <div className="absolute -inset-0.5 bg-red-500 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000"></div>
               <div className="relative w-48 h-48 rounded-full border-2 border-gray-700 overflow-hidden bg-gray-800 shadow-2xl">
                 <img
-                  src="https://oswars.org/assets/logos/redos.png"
+                  src="https://cdn.serverse.org/oswars/red.png"
                   alt="Team Red OS Logo"
                   className="w-full h-full object-cover transition duration-700 group-hover:scale-110"
                 />
