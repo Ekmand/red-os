@@ -10,7 +10,7 @@ function App() {
       <div
         className="h-[40vh] w-full relative overflow-hidden"
         style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1920")',
+          backgroundImage: 'url("oswars.org/assets/banners/redbanner.png")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed'
@@ -29,7 +29,7 @@ function App() {
               <div className="absolute -inset-0.5 bg-red-500 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000"></div>
               <div className="relative w-48 h-48 rounded-full border-2 border-gray-700 overflow-hidden bg-gray-800 shadow-2xl">
                 <img
-                  src="../assets/redos_logo.svg?auto=format&fit=crop&w=400"
+                  src="https://oswars.org/assets/logos/redos.png"
                   alt="Team Red OS Logo"
                   className="w-full h-full object-cover transition duration-700 group-hover:scale-110"
                 />
@@ -185,7 +185,7 @@ function App() {
             </div>
             <div className="flex items-center gap-6">
               <a
-                href="https://discord.gg/FrXEK2Yq"
+                href="https://discord.gg/m5sQs4PGT5"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 text-[#5865F2] hover:text-white bg-black/50 rounded-xl border border-gray-700/50 hover:border-[#5865F2]/50 transition-all duration-300 hover:scale-110"
